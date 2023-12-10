@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Javascript <br>🎯 Goals:Exploring all Technologies finalizing my dream <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Exploring Open Source <br>📚 I'm currently learning Javascript <br>🎯 Goals:Its Beyond <br></p>
 
 ###
 
