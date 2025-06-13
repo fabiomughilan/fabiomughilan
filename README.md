@@ -1,37 +1,15 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![github-header-image (1)](https://github.com/user-attachments/assets/4bff87f6-ba64-4127-8ab6-2d6a7c577a8e)
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Web3+Explorer;Tech+Enthusiast" alt="Typing SVG" /> <div style="background: linear-gradient(to right, #8a2387, #e94057, #f27121); padding: 20px; border-radius: 10px; margin: 20px 0;"> <p align="center"> <strong>Fullstack Developer passionate about building web applications and exploring cutting-edge technologies. Currently diving into Web3 and decentralized systems. Let's code the future! 🚀</strong> </p> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div> <div align="center">  <table align="center" style="border: none; background-color: transparent; margin: 0 auto;"> <tr style="background-color: transparent;"> <td align="center" style="border: none; padding: 10px;"> <img src="https://img.icons8.com/color/48/000000/developer--v2.png" width="30px" style="margin-right: 10px;"/> <strong>Fullstack Developer</strong> specializing in modern web technologies and scalable solutions. </td> </tr> <tr style="background-color: transparent;"> <td align="center" style="border: none; padding: 10px;"> <img src="https://img.icons8.com/color/48/000000/code.png" width="30px" style="margin-right: 10px;"/> Building projects with <strong>.NET, React, Angular, and Node.js</strong>. </td> </tr> <tr style="background-color: transparent;"> <td align="center" style="border: none; padding: 10px;"> <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" width="30px" style="margin-right: 10px;"/> Exploring <strong>Web3</strong> and blockchain development (currently learning Cairo for Starknet). </td> </tr> <tr style="background-color: transparent;"> <td align="center" style="border: none; padding: 10px;"> 🐟 Fun side quest: Designing a <strong>virtual aquarium game</strong> to merge tech with my love for aquatic life. </td> </tr> </table> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div> 
 
-###
+<div align="center"> <h3>Programming Languages</h3> <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 0 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 0 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 0 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin: 0 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" style="margin: 0 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 0 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 0 10px;"/> <img src="https://github.com/user-attachments/assets/709c277b-c741-4b20-a98e-b2467c34dca6" alt="Cairo" width="50" height="50" style="margin: 0 10px;"/> </div> <h3>Frameworks & Libraries</h3> <div style="background: linear-gradient(to right, #8e2de2, #4a00e0); padding: 20px; border-radius: 10px; margin: 20px 0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="50" height="50" style="margin: 0 15px; filter: drop-shadow(0 0 5px rgba(255,255,255,0.7));"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 0 15px; filter: drop-shadow(0 0 5px rgba(255,255,255,0.7));"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" style="margin: 0 15px; filter: drop-shadow(0 0 5px rgba(255,255,255,0.7));"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="50" height="50" style="margin: 0 15px; filter: drop-shadow(0 0 5px rgba(255,255,255,0.7));"/> </div> <h3>Tools & Platforms</h3> <table align="center" style="border: none; background-color: transparent;"> <tr style="background-color: transparent;"> <td align="center" style="border: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/><br> <strong>Docker</strong> </td> <td align="center" style="border: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/><br> <strong>Git</strong> </td> <td align="center" style="border: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/><br> <strong>GitHub</strong> </td> </tr> <tr style="background-color: transparent;"> <td align="center" style="border: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/><br> <strong>Linux</strong> </td> <td align="center" style="border: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/><br> <strong>Node.js</strong> </td> <td align="center" style="border: none;"> <img src="https://github.com/user-attachments/assets/709c277b-c741-4b20-a98e-b2467c34dca6" alt="Cairo" width="60" height="60"/><br> <strong>Cairo</strong> </td> </tr> </table> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josue19-08&theme=radical" alt="GitHub Streak" /> </div>
+<h3>📊 GitHub Stats</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=Josue19-08&show_icons=true&theme=radical" alt="Josué's GitHub Stats" style="height: 200px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue19-08&layout=compact&theme=radical" alt="Josué's GitHub Languages" style="height: 200px;" /> </div>
+<h3>🌐 Let's Connect!</h3>
+<div align="center"> <a href="https://x.com/MysSonic"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /> </a> <a href="https://t.me/fabiomughilan"> <img src="https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" /> </a> <a href="mailto:fabiomughilan@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /> </a> </div>
+<h3>🐟 Fun Fact</h3>
 
-<p align="left">My name is Fabio Mughilan and I'm a B.tech Student, from Trivandrum</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e705e4ed-4efa-4e77-a77b-e29b2980e957" alt="Monkey_developer">
+</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Exploring Open Source <br>📚 I'm currently learning Javascript <br>🎯 Goals:Its Beyond <br></p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+<div align="center"> <p>I'm inspired to create a <strong>game about taking care of your aquarium</strong>, combining my love for aquatics and technology!</p> <p>Now I'm actively building this vision as a <strong>blockchain game</strong> — say hello to <a href="https://github.com/AquaStark/Aqua-Stark"><strong>Aqua-Stark</strong></a> 🧪🐠</p> <img src="https://img.shields.io/badge/Status-In_Development-brightgreen?style=for-the-badge" /> </div> <div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div> 
