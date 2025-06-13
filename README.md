@@ -6,7 +6,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=fabiomughilan&show_icons=true&theme=radical" alt="Fabio's GitHub Stats" style="height: 200px;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomughilan&layout=compact&theme=radical" alt="Fabio's GitHub Languages" style="height: 200px;" /> </div> -->
 <h3>🌐 Let's Connect!</h3>
 <div align="center"> <a href="https://x.com/MysSonic"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /> </a> <a href="https://t.me/fabiomughilan"> <img src="https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" /> </a> <a href="mailto:fabiomughilan@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /> </a> </div>
-<h3>🐟 Fun Fact</h3>
+<h3>😂👨‍💻</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e705e4ed-4efa-4e77-a77b-e29b2980e957" alt="Monkey_developer">
