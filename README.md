@@ -11,5 +11,4 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e705e4ed-4efa-4e77-a77b-e29b2980e957" alt="Monkey_developer">
 </p>
-
-<div align="center"> <p>I'm inspired to create a <strong>game about taking care of your aquarium</strong>, combining my love for aquatics and technology!</p> <p>Now I'm actively building this vision as a <strong>blockchain game</strong> — say hello to <a href="https://github.com/AquaStark/Aqua-Stark"><strong>Aqua-Stark</strong></a> 🧪🐠</p> <img src="https://img.shields.io/badge/Status-In_Development-brightgreen?style=for-the-badge" /> </div> <div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div> 
+ </div> <div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> </div> 
